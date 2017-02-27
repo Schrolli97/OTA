@@ -1,15 +1,28 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Unofficial>
         <v1awifi>
-            <Filename>RR-N-v5.8.2-20170227-oneplus2-Official-SONI.zip</Filename> 
+            <Filename>RR-N-v5.8.2-20170224-v1awifi-Unofficial.zip</Filename> 
             <RomUrl
                 id="rom"
                 title="Rom"
                 description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=673368273298934116</RomUrl>          
             <OpenGappsUrl
                 id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+                title="Open GApps"
+                description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
          </v1awifi>
+    </Unofficial>
+    <Unofficial>
+        <v2awifi>
+            <Filename>RR-N-v5.8.2-20170224-v2awifi-Unofficial.zip</Filename> 
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862705916</RomUrl>          
+            <OpenGappsUrl
+                id="open_gapps"
+                title="Open GApps"
+                description="Download latest Open GApps">http://opengapps.org</OpenGappsUrl>
+         </v2awifi>
     </Unofficial>
 </SlimOTA>
