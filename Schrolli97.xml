@@ -1,11 +1,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Unofficial>
         <v1awifi>
-            <Filename>RR-N-v5.8.2-20170228-v1awifi-Unofficial.zip</Filename> 
+            <Filename>RR-N-v5.8.2-20170317-v1awifi-Unofficial.zip</Filename> 
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=529152257862706822</RomUrl>          
+                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=745425885120716011</RomUrl>          
             <OpenGappsUrl
                 id="open_gapps"
                 title="Open GApps"
@@ -14,11 +14,11 @@
     </Unofficial>
     <Unofficial>
         <v2awifi>
-            <Filename>RR-N-v5.8.2-20170228-v2awifi-Unofficial.zip</Filename> 
+            <Filename>RR-N-v5.8.2-20170317-v2awifi-Unofficial.zip</Filename> 
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=673368273298935033</RomUrl>          
+                description="ResurrectionRemix builds">https://www.androidfilehost.com/?fid=457095661767145421</RomUrl>          
             <OpenGappsUrl
                 id="open_gapps"
                 title="Open GApps"
